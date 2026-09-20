@@ -1,16 +1,21 @@
-## Hi there 👋
+# Fabiano Dione da Silva
 
-<!--
-**FabianoDione/FabianoDione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currículo e portfólio profissional
 
-Here are some ideas to get you started:
+Espaço para reunir minha trajetória, formação, projetos e evolução de estudos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Portfólio em construção.** Os projetos e resultados serão apresentados conforme forem documentados.
+
+## Explore
+
+| Seção | O que você encontra |
+|---|---|
+| [Currículo](https://github.com/FabianoDione/FabianoDione/blob/main/curriculo/README.md) | Trajetória profissional, formação e competências |
+| [Projetos](https://github.com/FabianoDione/FabianoDione/blob/main/projetos/README.md) | Problemas, soluções, documentação e resultados |
+| [Estudos](https://github.com/FabianoDione/FabianoDione/blob/main/estudos/README.md) | Exercícios e registros de aprendizado |
+| [Certificados](https://github.com/FabianoDione/FabianoDione/blob/main/certificados/README.md) | Formação complementar e comprovantes |
+| [Modelos](https://github.com/FabianoDione/FabianoDione/blob/main/modelos/README.md) | Estruturas para documentar projetos e experiências |
+
+---
+[Como atualizar este portfólio](https://github.com/FabianoDione/FabianoDione/blob/main/COMO-ATUALIZAR.md)
+
